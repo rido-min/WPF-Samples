@@ -1,0 +1,6 @@
+MainPackage=C:\code\WPF-Samples\Getting Started\Concepts.Core.Publish\bin\AnyCPU\Release\Concepts.Core.Publish_1.0.6.0_AnyCPU.appx
+SymbolPackage=C:\code\WPF-Samples\Getting Started\Concepts.Core.Publish\AppPackages\Concepts.Core.Publish_1.0.6.0_Test\Concepts.Core.Publish_1.0.6.0_AnyCPU.appxsym
+ResourcePack=C:\code\WPF-Samples\Getting Started\Concepts.Core.Publish\bin\AnyCPU\Release\Concepts.Core.Publish_1.0.6.0_scale-100.appx
+ResourcePack=C:\code\WPF-Samples\Getting Started\Concepts.Core.Publish\bin\AnyCPU\Release\Concepts.Core.Publish_1.0.6.0_scale-125.appx
+ResourcePack=C:\code\WPF-Samples\Getting Started\Concepts.Core.Publish\bin\AnyCPU\Release\Concepts.Core.Publish_1.0.6.0_scale-150.appx
+ResourcePack=C:\code\WPF-Samples\Getting Started\Concepts.Core.Publish\bin\AnyCPU\Release\Concepts.Core.Publish_1.0.6.0_scale-400.appx
