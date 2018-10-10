@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Wpf">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+  </PropertyGroup>
+
+  <ItemGroup>
+     <ApplicationDefinition Include="App.xaml" />
+     <Page Include="MainWindow.xaml" />
+     <Page Include="Default.xaml" />
+     <Page Include="TOC.xaml" />
+     <Page Include="Welcome.xaml" />
+     <Page Include="samps\*.xaml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <FrameworkReference Include="Microsoft.DesktopUI" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="images\*.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>
